@@ -37,13 +37,11 @@
 7)https://chris4dim.github.io/3newcharts/
 
 ### Αποτελέσματα:
-Τα αποτελέσματα της εργασίας αποτυπώνονται στο παρακάτω λινκ:
+Τα αποτελέσματα της εργασίας αποτυπώνονται στα παρακάτω λινκς:
 
 https://chris4dim.github.io/D3js-US-educational-attainment/
 
-https://user-images.githubusercontent.com/44111276/50221672-9c174e80-039e-11e9-89f6-ff6e35761160.gif?fbclid=IwAR0t3apvp5xL-XiPlPJ1DEurd_i4I-uPsmL3rl_8NXl_Pq8t_0uZ-hrTG0A
-
-https://user-images.githubusercontent.com/44111276/50222035-a6861800-039f-11e9-8033-5592cb5ff205.gif?fbclid=IwAR1C1MgQBjNVHIl0DN82kJ1goiufzU69kZTpD5vYWWvp5lgmqu50vW-uMKw
+https://user-images.githubusercontent.com/44111276/50222625-8bb4a300-03a1-11e9-84e0-beaa3cacaba4.gif
 
 ### Συμπεράσματα:
 Μετά το τέλος της εργασίας παρατηρήθηκε ότι o συνδιασμός html, javascript και css αποτελούν ένα πολύτιμο εργαλείο για την κατασκευή ιστοσελίδων.
